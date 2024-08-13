@@ -1,4 +1,4 @@
- Hi, I’m Shaown.
+ Hi, I’m Jakarai.
  I’m interested in programming.
  I’m currently learning mobile apps development.
  I’m looking to collaborate on mobile apps development in java.
